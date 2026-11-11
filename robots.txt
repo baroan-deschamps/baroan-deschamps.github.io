@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://baroan-deschamps.github.io/sitemap.xml
